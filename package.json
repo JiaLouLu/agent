@@ -14,9 +14,11 @@
   },
   "dependencies": {
     "pinia": "^3.0.4",
-    "vue": "beta"
+    "vue": "beta",
+    "vue-router": "^4.6.4"
   },
   "devDependencies": {
+    "@arco-design/web-vue": "^2.57.0",
     "@tsconfig/node24": "^24.0.4",
     "@types/jsdom": "^28.0.1",
     "@types/node": "^24.12.0",
